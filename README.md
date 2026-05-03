@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Yuvraj Wable
+# Hi👋, I'm Yuvraj Wable
 
 ### 🚀 Software Developer | MERN Stack | Problem Solver
 
