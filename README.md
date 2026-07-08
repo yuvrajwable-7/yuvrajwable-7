@@ -80,14 +80,6 @@ repeat();
 
 ---
 
-### 🔹 Wanderlust (Full Stack App)
-- 🌍 Listing platform with map integration  
-- 🗺️ MapTiler + MongoDB + Express  
-- 🔐 Authentication + CRUD + search  
-- 👉 [Code](#)
-
----
-
 ### 🔹 Habit Tracker
 - 📊 Track daily habits with persistence  
 - 🎯 Focus on consistency and simple UI  
