@@ -115,7 +115,7 @@ repeat();
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajwable-7&theme=react-dark&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph-sigma-nine.vercel.app/graph?username=yuvrajwable-7&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
